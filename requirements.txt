@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langgraph
+pandas
+xarray
+netCDF4
+sqlalchemy
