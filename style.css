@@ -50,8 +50,9 @@ video {
 }
 
 .header h1 {
-      color: #000000;
+      color: #b6b6b6;
       font-size: 80px !important;
+      font-weight: bolder;
 }
 
 @media(max-width: 900px) {
@@ -75,7 +76,7 @@ video {
 }
 
 .nav.scrolled {
-      background-color: rgb(138, 209, 231) !important;
+      background-color: rgb(40, 40, 41) !important;
       transition: background-color 500ms linear;
 }
 
@@ -90,7 +91,7 @@ video {
 }
 
 .nav #brand a {
-      color: #000000;
+      color: #828282;
       font-family: Poppins !important;
       transition: all 500ms ease-out;
 }
@@ -118,7 +119,7 @@ video {
 
 .nav #menu li a {
       font-family: Poppins !important;
-      color: rgb(0, 0, 0);
+      color: #828282;
       transition: all 500ms ease-out;
 }
 
@@ -340,16 +341,27 @@ button {
       overflow: hidden;
 }
 
-.team-one {
-      background: url(team-one.jpg) no-repeat 50% 50%;
-      background-size: cover;
-}
 .team-on {
       background: url(team-on.jpg) no-repeat 50% 50%;
       background-size: cover;
 }
-
+.team-one {
+      background: url(team-one.jpg) no-repeat 50% 50%;
+      background-size: cover;
+}
 .team-two {
+      background: url(team-two.jpg) no-repeat 50% 50%;
+      background-size: cover;
+}
+.team-three {
+      background: url(team-three.jpg) no-repeat 50% 50%;
+      background-size: cover;
+}
+.team-four {
+      background: url(team-four.jpg) no-repeat 50% 50%;
+      background-size: cover;
+}
+.team-five {
       background: url(team-two.jpg) no-repeat 50% 50%;
       background-size: cover;
 }
